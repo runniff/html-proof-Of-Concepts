@@ -1,0 +1,12 @@
+body {
+    background: #d1edf6;
+    font-family: open sans;
+    margin: 20px;;
+}
+
+.component-container {
+    max-width: 393px;
+    border: 1px solid #cecece;
+    min-height: 852px;
+    background: #fff;
+}
